@@ -6,6 +6,8 @@ Ceci est un mini-jeu de devinettes en JavaScript, réalisé dans le cadre de la 
 
 Le but du jeu est simple : deviner un nombre secret entre 1 et 100.
 
+lien du jeux : https://cynhlfn.github.io/Guess-my-number-javascript/
+
 ### La page présente :
 
 - Un champ pour entrer le nombre deviné
